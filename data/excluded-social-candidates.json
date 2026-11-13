@@ -1,0 +1,41 @@
+[
+  {
+    "platform": "douyin",
+    "title": "不做博后怎么留在上海高校工作",
+    "url": "https://www.douyin.com/video/7689802241070402831",
+    "author": null,
+    "published_at": "2026-10-01",
+    "accessed_at": "2026-11-13",
+    "evidence_level": "search_snippet",
+    "summary": "博士就业主题视频；博士生基础研究项目仅在索引所含评论中被提及。",
+    "query": "site:douyin.com/video 国自然博士生",
+    "relevance": "excluded_comment_only",
+    "limitations": "原页无可读行，未观看；不收录评论、不作为博士生项目申请经验或政策证据。"
+  },
+  {
+    "platform": "douyin",
+    "title": "卷的时候不要忘了让工具帮帮你",
+    "url": "https://www.douyin.com/video/7452246622681025852?source=OAI-SearchBot-sdc",
+    "author": null,
+    "published_at": "2024-12-25",
+    "accessed_at": "2026-11-13",
+    "evidence_level": "search_snippet",
+    "summary": "泛国自然项目检索和科研工具推广。",
+    "query": "site:douyin.com/video 青年学生基础研究项目",
+    "relevance": "excluded_generic_grant_tools",
+    "limitations": "未证明与博士研究生项目直接相关；原页无可读行，未观看。"
+  },
+  {
+    "platform": "douyin",
+    "title": "国自然辛苦准备半年，被拒只需5分钟",
+    "url": "https://www.douyin.com/video/7200972533707984189?source=Baiduspider-sdc",
+    "author": null,
+    "published_at": null,
+    "accessed_at": "2026-11-13",
+    "evidence_level": "search_snippet",
+    "summary": "面向一般科研人员的国自然申请建议。",
+    "query": "国自然 博士生 30万 site:douyin.com/video/",
+    "relevance": "excluded_not_phd_student_program",
+    "limitations": "泛青年或面上基金内容；未打开原页，未观看；不作为博士生专项经验。"
+  }
+]

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960" role="img" aria-labelledby="title desc">
+<title id="title">NSFC PhD Skills 国自然博士生项目</title><desc id="desc">官方通知、申请时间线、经验检索、公开名单和模板附件的非官方指南封面。</desc>
+<rect width="1440" height="960" fill="#132b39"/>
+<g fill="none" stroke="#79b8ad" opacity=".32"><circle cx="1210" cy="280" r="240"/><circle cx="1290" cy="280" r="180"/><circle cx="1210" cy="360" r="180"/><path d="M890 620H1370M1030 580V740"/></g>
+<rect x="86" y="82" width="48" height="6" rx="3" fill="#c7e9df"/>
+<g font-family="Microsoft YaHei,PingFang SC,sans-serif"><text x="86" y="140" fill="#c7e9df" font-size="25" letter-spacing="4">NSFC PhD Skills</text><text x="80" y="286" fill="#fcf7e9" font-size="94" font-weight="700">国自然博士生项目</text><text x="86" y="374" fill="#fcf7e9" font-size="53" font-weight="500">申请与资料指南</text><text x="88" y="454" fill="#b5cbc9" font-size="25">从项目通知到申请准备，让每一条信息都有出处。</text>
+<g font-size="23" fill="#dce9e3"><text x="88" y="564">官方规则</text><text x="276" y="564">申请时间线</text><text x="504" y="564">经验检索</text><text x="712" y="564">公开名单</text><text x="920" y="564">模板附件</text></g>
+<g stroke="#47616a"><path d="M88 594H1300M88 820H1300M438 644V776M790 644V776"/></g>
+<g fill="#c7e9df" font-size="72" font-weight="600"><text x="88" y="713">719</text><text x="488" y="713">41</text><text x="840" y="713">18</text></g>
+<g fill="#b5cbc9" font-size="21"><text x="90" y="760">公开具名记录 · 非完整名单</text><text x="490" y="760">依托单位</text><text x="842" y="760">不同内容的已下载附件</text></g>
+<text x="88" y="878" fill="#93b0b4" font-size="19">非官方整理 · 2026.11.13 · naturedu</text><text x="842" y="878" fill="#93b0b4" font-size="19">github.com/naturedu/nsfc-phd</text>
+</g></svg>

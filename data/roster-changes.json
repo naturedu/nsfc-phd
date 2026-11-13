@@ -1,0 +1,89 @@
+[
+  {
+    "type": "name_correction",
+    "year": 2025,
+    "institution": "复旦大学",
+    "from": "欧阳需",
+    "to": "欧阳霈"
+  },
+  {
+    "type": "name_correction",
+    "year": 2023,
+    "institution": "复旦大学",
+    "from": "卜诗瑞",
+    "to": "卞诗瑞"
+  },
+  {
+    "type": "duplicate_removed",
+    "year": 2023,
+    "institution": "复旦大学",
+    "name": "卞诗瑞"
+  },
+  {
+    "type": "name_correction",
+    "year": 2023,
+    "institution": "复旦大学",
+    "from": "张子煊",
+    "to": "张子煜"
+  },
+  {
+    "type": "duplicate_removed",
+    "year": 2023,
+    "institution": "复旦大学",
+    "name": "张子煜"
+  },
+  {
+    "type": "official_or_supplement_added",
+    "year": 2023,
+    "institution": "复旦大学",
+    "name": "余沭乐"
+  },
+  {
+    "type": "official_or_supplement_added",
+    "year": 2023,
+    "institution": "复旦大学",
+    "name": "唐榕"
+  },
+  {
+    "type": "official_or_supplement_added",
+    "year": 2023,
+    "institution": "复旦大学",
+    "name": "韦煜"
+  },
+  {
+    "type": "official_or_supplement_added",
+    "year": 2024,
+    "institution": "复旦大学",
+    "name": "李梦飞"
+  },
+  {
+    "type": "official_or_supplement_added",
+    "year": 2024,
+    "institution": "复旦大学",
+    "name": "程坦"
+  },
+  {
+    "type": "official_or_supplement_added",
+    "year": 2024,
+    "institution": "复旦大学",
+    "name": "屈德林"
+  },
+  {
+    "type": "official_or_supplement_added",
+    "year": 2024,
+    "institution": "复旦大学",
+    "name": "王君可"
+  },
+  {
+    "type": "official_or_supplement_added",
+    "year": 2024,
+    "institution": "复旦大学",
+    "name": "张南"
+  },
+  {
+    "type": "official_or_supplement_added",
+    "year": 2025,
+    "institution": "复旦大学",
+    "name": "刘俊含"
+  }
+]

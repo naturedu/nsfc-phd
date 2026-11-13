@@ -1,0 +1,4 @@
+interface:
+  display_name: "NSFC PhD｜国自然博士生项目"
+  short_description: "检索四平台经验、核对申请时间线、公开获批名单及模板附件，辅助申报准备"
+  default_prompt: "用 $nsfc-phd 检索国自然博士生项目经验，核对我校当年通知，整理时间线、获批名单和可下载附件。"

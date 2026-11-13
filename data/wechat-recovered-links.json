@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "recovered_links": 7,
+    "historical_snapshot_date": "2026-08-21",
+    "checked_at": "2026-11-13",
+    "current_fulltext_read": 0,
+    "scope_note": "这些链接从既有项目资料的来源索引恢复。原记录将其标为原始索引，没有证据表明已逐篇读完微信正文。本轮尝试打开7条均返回不可访问错误，不等于文章不存在或已删除。",
+    "classification_note": "其中3条有名单主题线索，其余4条未记录文章标题或公众号名称。不得把7条直接称为申请经验帖。"
+  },
+  "records": [
+    {
+      "id": "wechat-history-01",
+      "platform": "微信公众号",
+      "url": "https://mp.weixin.qq.com/s/xP31EWz1lfKkyOQMZqj4HQ",
+      "title": "",
+      "publisher": "",
+      "topic_hint": "国自然博士生项目原始线索，具体题名未恢复",
+      "historical_read_depth": "原始索引；受微信平台访问限制，以公开转载和学校官网核验",
+      "current_read_depth": "未取得正文",
+      "current_access_status": "网络工具返回不可打开的不可重试错误",
+      "mirror_url": ""
+    },
+    {
+      "id": "wechat-history-02",
+      "platform": "微信公众号",
+      "url": "https://mp.weixin.qq.com/s/g9LDGdhnXhIgnNVvuAuPRg",
+      "title": "",
+      "publisher": "",
+      "topic_hint": "国自然博士生项目原始线索，具体题名未恢复",
+      "historical_read_depth": "原始索引；受微信平台访问限制",
+      "current_read_depth": "未取得正文",
+      "current_access_status": "网络工具返回不可打开的不可重试错误",
+      "mirror_url": ""
+    },
+    {
+      "id": "wechat-history-03",
+      "platform": "微信公众号",
+      "url": "https://mp.weixin.qq.com/s/x2NzgSF5nbcQigDrSsQ0oQ",
+      "title": "",
+      "publisher": "",
+      "topic_hint": "国自然博士生项目原始线索，具体题名未恢复",
+      "historical_read_depth": "原始索引；历史记录曾修正重复拼接的URL，未标正文已读",
+      "current_read_depth": "未取得正文",
+      "current_access_status": "网络工具返回不可打开的不可重试错误",
+      "mirror_url": ""
+    },
+    {
+      "id": "wechat-history-04",
+      "platform": "微信公众号",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NzY2NzU5Mw==&mid=2247587754&idx=2&sn=155daf7eee679ba13463496f16ba6d86",
+      "title": "",
+      "publisher": "",
+      "topic_hint": "国自然博士生项目原始线索，具体题名未恢复",
+      "historical_read_depth": "原始索引；受微信平台访问限制",
+      "current_read_depth": "未取得正文",
+      "current_access_status": "网络工具返回不可打开的不可重试错误",
+      "mirror_url": ""
+    },
+    {
+      "id": "wechat-history-05",
+      "platform": "微信公众号",
+      "url": "https://mp.weixin.qq.com/s/mbKr_8DFOYTTFs63F-x86g",
+      "title": "",
+      "publisher": "",
+      "topic_hint": "2025年度近300人名单扩展版线索",
+      "historical_read_depth": "微信原始索引；公开镜像长图曾OCR录入295条",
+      "current_read_depth": "微信正文未取得；已读公开镜像页面的统计说明",
+      "current_access_status": "微信URL不可打开；镜像仍可访问",
+      "mirror_url": "https://www.uconf.com/news/4554"
+    },
+    {
+      "id": "wechat-history-06",
+      "platform": "微信公众号",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU4NzcxNzY5Mw==&mid=2247543964&idx=1&sn=16782de50875c63cd19ce6c19384b904",
+      "title": "",
+      "publisher": "",
+      "topic_hint": "2023年度超240人名单扩展线索",
+      "historical_read_depth": "微信原始索引；公开镜像可见长图曾OCR录入212条",
+      "current_read_depth": "微信正文未取得；已读公开镜像页面及图片入口",
+      "current_access_status": "微信URL不可打开；镜像仍可访问",
+      "mirror_url": "https://www.keoaeic.org/consultation/34854.html"
+    },
+    {
+      "id": "wechat-history-07",
+      "platform": "微信公众号",
+      "url": "https://mp.weixin.qq.com/s/mEcFgWLzKHvOTbxEMS3Zkg",
+      "title": "",
+      "publisher": "",
+      "topic_hint": "2024年度名单补全线索",
+      "historical_read_depth": "原始索引；历史记录去除了粘在短链后的年份后缀，未标正文已读",
+      "current_read_depth": "未取得正文",
+      "current_access_status": "网络工具返回不可打开的不可重试错误",
+      "mirror_url": ""
+    }
+  ]
+}

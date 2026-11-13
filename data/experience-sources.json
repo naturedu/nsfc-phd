@@ -1,0 +1,62 @@
+[
+  {
+    "platform": "university_website",
+    "title": "学术启航沙龙：博士研究生项目经验分享会精彩回顾",
+    "url": "https://piqs.buaa.edu.cn/info/1024/2443.htm",
+    "author": "北京航空航天大学大科学装置研究院",
+    "published_at": "2025-03-26",
+    "accessed_at": "2026-11-13",
+    "evidence_level": "page_text",
+    "summary": "两位获批者强调创新性、研究与博士论文的关系、答辩表达以及提前整理积累；2024个案从8月提交到12月结果。",
+    "relevance": "direct_experience",
+    "limitations": "个案时间不能泛化为本年度全国截止日期；页内经费口径存在疑点，应另按官方文件核实。"
+  },
+  {
+    "platform": "university_website",
+    "title": "国自然基金青年学生项目申报流程与技巧经验分享会成功举办",
+    "url": "https://www.tjmu.edu.cn/info/1106/10188.htm",
+    "author": "华中科技大学同济医学院",
+    "published_at": "2024-11-04",
+    "accessed_at": "2026-11-13",
+    "evidence_level": "search_snippet",
+    "summary": "2023年获批的六位博士生参与分享，索引载有流程节点、选题、研究基础和图表展示等主题。",
+    "relevance": "direct_experience_indexed",
+    "limitations": "原页两次超时，只读到索引内容；未读六人的完整讲稿。"
+  },
+  {
+    "platform": "university_website",
+    "title": "国自然基金青年学生基础研究项目（博士研究生）申请经验分享",
+    "url": "https://news.sjtu.edu.cn/xsjz/20250224/207423.html",
+    "author": "上海交通大学教学发展中心",
+    "published_at": "2025-02-24",
+    "accessed_at": "2026-11-13",
+    "evidence_level": "page_text",
+    "summary": "黄议达与冯二虎的经验讲座预告，议程涵盖流程、项目书和会评答辩。",
+    "relevance": "experience_event_notice",
+    "limitations": "预告不等于讲稿；不能从议程补造具体技巧。"
+  },
+  {
+    "platform": "university_website",
+    "title": "本博路径选择与国自然博士生项目研究分享活动回顾",
+    "url": "https://econ.fudan.edu.cn/info/1024/42877.htm",
+    "author": "复旦大学经济学院",
+    "published_at": "2026-04-28",
+    "accessed_at": "2026-11-13",
+    "evidence_level": "page_text",
+    "summary": "李铮与沈彬朝分享长期积累和研究分工；李铮第二次申请获批，强调找到比较优势与团队合作。",
+    "relevance": "direct_experience",
+    "limitations": "经济学与个人经历，不是全国申请资格、论文数量门槛或成功概率。"
+  },
+  {
+    "platform": "university_website",
+    "title": "2025年教学发展中心活动集锦（一）",
+    "url": "https://ctldnew.sjtu.edu.cn/news/detail/1267",
+    "author": "上海交通大学教学发展中心",
+    "published_at": null,
+    "accessed_at": "2026-11-13",
+    "evidence_level": "search_snippet",
+    "summary": "回顾3月5日黄议达、冯二虎博士生国自然经验讲座。",
+    "relevance": "same_event_followup",
+    "limitations": "与同名预告为同一活动，不算独立经验；本轮未打开正文。"
+  }
+]
