@@ -1,6 +1,6 @@
 # 全部已取得的相关链接
 
-共 107 个去重URL；包括原链、镜像、官方来源、名单来源、附件和已排除候选。不是全平台所有帖子。小红书本轮未取得可确认经验帖原链。
+共 129 个去重URL；包括原链、镜像、官方来源、名单来源、附件和已排除候选。不是全平台所有帖子。小红书本轮未取得可确认经验帖原链。
 
 ## 公众号原链
 
@@ -59,6 +59,10 @@
 - [关于2026年度国家自然科学基金青年学生基础项目（博士研究生）推荐工作的通知-西安电子科技大学电子工程学院](https://see.xidian.edu.cn/info/1053/104361.htm) — ok。以页面正文实际年份与适用单位为准
 - [国家自然科学基金青年学生基础研究项目（博士研究生）校内申报流程](https://kjc.seu.edu.cn/2024/0912/c29198a502658/page.htm) — ok。以页面正文实际年份与适用单位为准
 - [项目申报：关于组织申报2026年度国家自然科学基金青年学生基础研究项目（博士研究生）的通知-人居环境与建筑工程学院](https://hsce.xjtu.edu.cn/info/1035/14449.htm) — ok。以页面正文实际年份与适用单位为准
+- [国家自然科学基金委员会计划与政策局](https://me.sjtu.edu.cn/YanJS/notice/7674.html) — ok。以页面正文实际年份与适用单位为准
+- [国家自然科学基金委员会](https://www.nsfc.gov.cn/p1/2931/3971/4002/99887.html) — ok。以页面正文实际年份与适用单位为准
+- [国家自然科学基金委员会](https://www.nsfc.gov.cn/p1/2931/3971/3975/3990/glkxb22222.html) — ok。以页面正文实际年份与适用单位为准
+- [国家自然科学基金委员会](https://www.nsfc.gov.cn/p1/2931/3971/3975/3990/4039/glkxsc222.html) — ok。以页面正文实际年份与适用单位为准
 
 ## 附件下载
 
@@ -85,8 +89,18 @@
 - [附件3：简历格式示例（供参考）.pdf](https://kjc.seu.edu.cn/_upload/article/files/a6/4e/f16ef2c44a7aafc41287e95b48d8/6eed3c7f-386c-4fe8-b91b-031858d643f9.pdf) — failed。国家自然科学基金青年学生基础研究项目（博士研究生）校内申报流程
 - [附件4：表1 提交学校推荐意见.docx](https://kjc.seu.edu.cn/_upload/article/files/a6/4e/f16ef2c44a7aafc41287e95b48d8/931e856c-4969-480f-8457-25d5c92db1d3.docx) — failed。国家自然科学基金青年学生基础研究项目（博士研究生）校内申报流程
 - [附件5：表2 学校用印推荐意见.docx](https://kjc.seu.edu.cn/_upload/article/files/a6/4e/f16ef2c44a7aafc41287e95b48d8/a7280fe4-f89c-4900-959a-397d90a05e42.docx) — downloaded。国家自然科学基金青年学生基础研究项目（博士研究生）校内申报流程
-- [附件2：学院（部）推荐人员清单.docx](https://hsce.xjtu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1982885272&wbfileid=18183422) — failed。项目申报：关于组织申报2026年度国家自然科学基金青年学生基础研究项目（博士研究生）的通知-人居环境与建筑工程学院
-- [附件3：国家自然科学基金青年学生基础研究项目（博士研究生）申报承诺函.docx](https://hsce.xjtu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1982885272&wbfileid=18183421) — failed。项目申报：关于组织申报2026年度国家自然科学基金青年学生基础研究项目（博士研究生）的通知-人居环境与建筑工程学院
+- [附件2：学院（部）推荐人员清单.docx](https://hsce.xjtu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1982885272&wbfileid=18183422) — captcha_required。项目申报：关于组织申报2026年度国家自然科学基金青年学生基础研究项目（博士研究生）的通知-人居环境与建筑工程学院
+- [附件3：国家自然科学基金青年学生基础研究项目（博士研究生）申报承诺函.docx](https://hsce.xjtu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1982885272&wbfileid=18183421) — captcha_required。项目申报：关于组织申报2026年度国家自然科学基金青年学生基础研究项目（博士研究生）的通知-人居环境与建筑工程学院
+- [关于开展2026年度国家自然科学基金青年学生基础研究项目（博士研究生）推荐工作的通知](https://me.sjtu.edu.cn/YanJS/upload/6-WJTZ.pdf) — downloaded。国家自然科学基金委员会计划与政策局
+- [2026年度申请代码G管理科学部第1图](https://www.nsfc.gov.cn/u/cms/www/202601/16170822b1ph.jpg) — downloaded。国家自然科学基金委员会
+- [2026年度申请代码G管理科学部第2图](https://www.nsfc.gov.cn/u/cms/www/202601/161708295zfu.jpg) — downloaded。国家自然科学基金委员会
+- [2026年度管理科学部资助领域和注意事项官方图](https://www.nsfc.gov.cn/u/cms/www/202601/16111534noux.jpg) — downloaded。国家自然科学基金委员会
+- [2026年度管理科学三处资助领域和注意事项官方图](https://www.nsfc.gov.cn/u/cms/www/202601/16142359vvs1.jpg) — downloaded。国家自然科学基金委员会
+- [国家自然科学基金博士生项目汇报PPT准备注意事项](https://me.sjtu.edu.cn/YanJS/upload/4-PPT.pdf) — downloaded。上海交通大学
+- [2026年国家自然科学基金博士生项目推荐候选人代表性成果信息表](https://me.sjtu.edu.cn/YanJS/upload/5-DBCG.xlsx) — downloaded。上海交通大学
+- [2026-07-31更新申请书模板](https://me.sjtu.edu.cn/YanJS/upload/3-SQS20260731.docx) — download_failed。上海交大机动学院2026推荐通知
+- [导师同意函](https://me.sjtu.edu.cn/YanJS/upload/2-DSTYH.docx) — download_failed。上海交大机动学院2026推荐通知
+- [推荐汇总表](https://me.sjtu.edu.cn/YanJS/upload/1-TJHZB.xlsx) — download_failed。上海交大机动学院2026推荐通知
 
 ## 转载线索
 
@@ -138,9 +152,17 @@
 
 ## 补充来源入口
 
+- [参考资料原始链接](https://soa.csu.edu.cn/info/1046/9801.htm) — 阅读深度见参考资料。来自 2026-source-audit.md；包括检索入口，不计作帖子
+- [参考资料原始链接](https://news.hust.edu.cn/info/1003/57961.htm) — 阅读深度见参考资料。来自 2026-source-audit.md；包括检索入口，不计作帖子
+- [参考资料原始链接](https://www.tjmu.edu.cn/info/1049/11858.htm) — 阅读深度见参考资料。来自 2026-source-audit.md；包括检索入口，不计作帖子
+- [参考资料原始链接](https://seee.hust.edu.cn/seee/info/1048/18860.htm) — 阅读深度见参考资料。来自 2026-source-audit.md；包括检索入口，不计作帖子
+- [参考资料原始链接](https://cm.hust.edu.cn/info/1695/34200.htm) — 阅读深度见参考资料。来自 2026-source-audit.md；包括检索入口，不计作帖子
+- [参考资料原始链接](https://int.cufe.edu.cn/info/1043/3930.htm) — 阅读深度见参考资料。来自 2026-source-audit.md；包括检索入口，不计作帖子
+- [参考资料原始链接](https://www.douyin.com/video/12345",) — 阅读深度见参考资料。来自 collector.md；包括检索入口，不计作帖子
+- [参考资料原始链接](https://healthsafety.fudan.edu.cn/a/2458) — 阅读深度见参考资料。来自 management-2026.md；包括检索入口，不计作帖子
 - [参考资料原始链接](https://news.shu.edu.cn/info/1013/172665.htm) — 阅读深度见参考资料。来自 policy.md；包括检索入口，不计作帖子
 - [参考资料原始链接](https://www.sina.cn/media/5628523640) — 阅读深度见参考资料。来自 policy.md；包括检索入口，不计作帖子
+- [参考资料原始链接](https://xxgk.fudan.edu.cn/a8/d1/c13498a698577/page.htm) — 阅读深度见参考资料。来自 roster.md；包括检索入口，不计作帖子
 - [参考资料原始链接](https://www.douyin.com/video/7452246622681025852?source=OAI-SearchBot-sdc) — 阅读深度见参考资料。来自 search-log.md；包括检索入口，不计作帖子
 - [参考资料原始链接](https://www.douyin.com/video/7200972533707984189?source=Baiduspider-sdc) — 阅读深度见参考资料。来自 search-log.md；包括检索入口，不计作帖子
 - [参考资料原始链接](https://www.mzph.cn/news/157325) — 阅读深度见参考资料。来自 search-log.md；包括检索入口，不计作帖子
-- [参考资料原始链接](https://xxgk.fudan.edu.cn/a8/d1/c13498a698577/page.htm) — 阅读深度见参考资料。来自 roster.md；包括检索入口，不计作帖子

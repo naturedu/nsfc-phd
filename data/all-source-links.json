@@ -238,6 +238,34 @@
     "note": "以页面正文实际年份与适用单位为准"
   },
   {
+    "category": "通知与来源页面",
+    "title": "国家自然科学基金委员会计划与政策局",
+    "url": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "status": "ok",
+    "note": "以页面正文实际年份与适用单位为准"
+  },
+  {
+    "category": "通知与来源页面",
+    "title": "国家自然科学基金委员会",
+    "url": "https://www.nsfc.gov.cn/p1/2931/3971/4002/99887.html",
+    "status": "ok",
+    "note": "以页面正文实际年份与适用单位为准"
+  },
+  {
+    "category": "通知与来源页面",
+    "title": "国家自然科学基金委员会",
+    "url": "https://www.nsfc.gov.cn/p1/2931/3971/3975/3990/glkxb22222.html",
+    "status": "ok",
+    "note": "以页面正文实际年份与适用单位为准"
+  },
+  {
+    "category": "通知与来源页面",
+    "title": "国家自然科学基金委员会",
+    "url": "https://www.nsfc.gov.cn/p1/2931/3971/3975/3990/4039/glkxsc222.html",
+    "status": "ok",
+    "note": "以页面正文实际年份与适用单位为准"
+  },
+  {
     "category": "附件下载",
     "title": "附件1 推荐人员名单汇总表.docx",
     "url": "https://kjc.seu.edu.cn/_upload/article/files/3b/1d/c8563b934310a8ff1948f25f784c/e5256bdd-4b42-4092-b644-7722d468b4e5.docx",
@@ -402,15 +430,85 @@
     "category": "附件下载",
     "title": "附件2：学院（部）推荐人员清单.docx",
     "url": "https://hsce.xjtu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1982885272&wbfileid=18183422",
-    "status": "failed",
+    "status": "captcha_required",
     "note": "项目申报：关于组织申报2026年度国家自然科学基金青年学生基础研究项目（博士研究生）的通知-人居环境与建筑工程学院"
   },
   {
     "category": "附件下载",
     "title": "附件3：国家自然科学基金青年学生基础研究项目（博士研究生）申报承诺函.docx",
     "url": "https://hsce.xjtu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1982885272&wbfileid=18183421",
-    "status": "failed",
+    "status": "captcha_required",
     "note": "项目申报：关于组织申报2026年度国家自然科学基金青年学生基础研究项目（博士研究生）的通知-人居环境与建筑工程学院"
+  },
+  {
+    "category": "附件下载",
+    "title": "关于开展2026年度国家自然科学基金青年学生基础研究项目（博士研究生）推荐工作的通知",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/6-WJTZ.pdf",
+    "status": "downloaded",
+    "note": "国家自然科学基金委员会计划与政策局"
+  },
+  {
+    "category": "附件下载",
+    "title": "2026年度申请代码G管理科学部第1图",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/16170822b1ph.jpg",
+    "status": "downloaded",
+    "note": "国家自然科学基金委员会"
+  },
+  {
+    "category": "附件下载",
+    "title": "2026年度申请代码G管理科学部第2图",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/161708295zfu.jpg",
+    "status": "downloaded",
+    "note": "国家自然科学基金委员会"
+  },
+  {
+    "category": "附件下载",
+    "title": "2026年度管理科学部资助领域和注意事项官方图",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/16111534noux.jpg",
+    "status": "downloaded",
+    "note": "国家自然科学基金委员会"
+  },
+  {
+    "category": "附件下载",
+    "title": "2026年度管理科学三处资助领域和注意事项官方图",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/16142359vvs1.jpg",
+    "status": "downloaded",
+    "note": "国家自然科学基金委员会"
+  },
+  {
+    "category": "附件下载",
+    "title": "国家自然科学基金博士生项目汇报PPT准备注意事项",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/4-PPT.pdf",
+    "status": "downloaded",
+    "note": "上海交通大学"
+  },
+  {
+    "category": "附件下载",
+    "title": "2026年国家自然科学基金博士生项目推荐候选人代表性成果信息表",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/5-DBCG.xlsx",
+    "status": "downloaded",
+    "note": "上海交通大学"
+  },
+  {
+    "category": "附件下载",
+    "title": "2026-07-31更新申请书模板",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/3-SQS20260731.docx",
+    "status": "download_failed",
+    "note": "上海交大机动学院2026推荐通知"
+  },
+  {
+    "category": "附件下载",
+    "title": "导师同意函",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/2-DSTYH.docx",
+    "status": "download_failed",
+    "note": "上海交大机动学院2026推荐通知"
+  },
+  {
+    "category": "附件下载",
+    "title": "推荐汇总表",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/1-TJHZB.xlsx",
+    "status": "download_failed",
+    "note": "上海交大机动学院2026推荐通知"
   },
   {
     "category": "转载线索",
@@ -709,6 +807,62 @@
   {
     "category": "补充来源入口",
     "title": "参考资料原始链接",
+    "url": "https://soa.csu.edu.cn/info/1046/9801.htm",
+    "status": "阅读深度见参考资料",
+    "note": "来自 2026-source-audit.md；包括检索入口，不计作帖子"
+  },
+  {
+    "category": "补充来源入口",
+    "title": "参考资料原始链接",
+    "url": "https://news.hust.edu.cn/info/1003/57961.htm",
+    "status": "阅读深度见参考资料",
+    "note": "来自 2026-source-audit.md；包括检索入口，不计作帖子"
+  },
+  {
+    "category": "补充来源入口",
+    "title": "参考资料原始链接",
+    "url": "https://www.tjmu.edu.cn/info/1049/11858.htm",
+    "status": "阅读深度见参考资料",
+    "note": "来自 2026-source-audit.md；包括检索入口，不计作帖子"
+  },
+  {
+    "category": "补充来源入口",
+    "title": "参考资料原始链接",
+    "url": "https://seee.hust.edu.cn/seee/info/1048/18860.htm",
+    "status": "阅读深度见参考资料",
+    "note": "来自 2026-source-audit.md；包括检索入口，不计作帖子"
+  },
+  {
+    "category": "补充来源入口",
+    "title": "参考资料原始链接",
+    "url": "https://cm.hust.edu.cn/info/1695/34200.htm",
+    "status": "阅读深度见参考资料",
+    "note": "来自 2026-source-audit.md；包括检索入口，不计作帖子"
+  },
+  {
+    "category": "补充来源入口",
+    "title": "参考资料原始链接",
+    "url": "https://int.cufe.edu.cn/info/1043/3930.htm",
+    "status": "阅读深度见参考资料",
+    "note": "来自 2026-source-audit.md；包括检索入口，不计作帖子"
+  },
+  {
+    "category": "补充来源入口",
+    "title": "参考资料原始链接",
+    "url": "https://www.douyin.com/video/12345\",",
+    "status": "阅读深度见参考资料",
+    "note": "来自 collector.md；包括检索入口，不计作帖子"
+  },
+  {
+    "category": "补充来源入口",
+    "title": "参考资料原始链接",
+    "url": "https://healthsafety.fudan.edu.cn/a/2458",
+    "status": "阅读深度见参考资料",
+    "note": "来自 management-2026.md；包括检索入口，不计作帖子"
+  },
+  {
+    "category": "补充来源入口",
+    "title": "参考资料原始链接",
     "url": "https://news.shu.edu.cn/info/1013/172665.htm",
     "status": "阅读深度见参考资料",
     "note": "来自 policy.md；包括检索入口，不计作帖子"
@@ -719,6 +873,13 @@
     "url": "https://www.sina.cn/media/5628523640",
     "status": "阅读深度见参考资料",
     "note": "来自 policy.md；包括检索入口，不计作帖子"
+  },
+  {
+    "category": "补充来源入口",
+    "title": "参考资料原始链接",
+    "url": "https://xxgk.fudan.edu.cn/a8/d1/c13498a698577/page.htm",
+    "status": "阅读深度见参考资料",
+    "note": "来自 roster.md；包括检索入口，不计作帖子"
   },
   {
     "category": "补充来源入口",
@@ -740,12 +901,5 @@
     "url": "https://www.mzph.cn/news/157325",
     "status": "阅读深度见参考资料",
     "note": "来自 search-log.md；包括检索入口，不计作帖子"
-  },
-  {
-    "category": "补充来源入口",
-    "title": "参考资料原始链接",
-    "url": "https://xxgk.fudan.edu.cn/a8/d1/c13498a698577/page.htm",
-    "status": "阅读深度见参考资料",
-    "note": "来自 roster.md；包括检索入口，不计作帖子"
   }
 ]

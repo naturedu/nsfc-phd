@@ -1,0 +1,27 @@
+[
+  {
+    "file": "nsfc-2026-codes-page.jpg",
+    "url": "https://www.nsfc.gov.cn/p1/2931/3971/4002/99887.html",
+    "captured_at": "2026-11-13",
+    "kind": "browser_full_page_screenshot"
+  },
+  {
+    "file": "codes-g-2.jpg",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/161708295zfu.jpg",
+    "captured_at": "2026-11-13",
+    "kind": "original_official_image"
+  },
+  {
+    "file": "notice-page-5.png",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/6-WJTZ.pdf",
+    "captured_at": "2026-11-13",
+    "kind": "pdf_page_render",
+    "page": 5
+  },
+  {
+    "file": "guide-cover.jpg",
+    "source": "repository index.html",
+    "captured_at": "2026-11-13",
+    "kind": "browser_rendered_cover_capture"
+  }
+]

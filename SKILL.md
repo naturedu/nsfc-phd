@@ -10,6 +10,7 @@ description: 检索国自然青年学生基础研究项目（博士研究生）�
 | 任务 | 读取资源 | 交付 |
 |---|---|---|
 | 能否申请、金额、期限、材料 | [官方依据](references/policy.md) | 有年度和院校边界的规则表、待确认项 |
+| 管理科学部G0401/G0405，代表作、PPT、函评与会评 | [2026五部分指南](references/management-2026.md)及[证据定位](references/management-sources.md) | 全国/校内节点、选口边界及有依据的准备分析 |
 | 什么时候准备、递交、答辩、出结果 | [时间线](references/timeline.md) | 官方节点与个人倒排计划，逐项附源 |
 | 小红书、公众号、抖音、微博经验检索 | [四平台检索](references/social-research.md)及[采集工具](references/collector.md) | 去重帖子索引、转述、检索日志、实际覆盖范围 |
 | 选题、材料审校、答辩准备 | [申请准备](references/application.md) | 研究证据清单、差距诊断、本人需补充的问题 |

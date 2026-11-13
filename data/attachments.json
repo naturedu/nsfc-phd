@@ -10,7 +10,8 @@
     "download_date": "2026-11-13",
     "sha256": "3ea225fd5affcb310703f13a7fd535edcf523630895023f1ff2b07718130c6dd",
     "size_bytes": 16267,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "SEU2025",
@@ -23,7 +24,8 @@
     "download_date": "2026-11-13",
     "sha256": "210295a7020bce5997023d617fc9b5cef219af4cc3010c6e59f5efd9ec1f51e6",
     "size_bytes": 41833,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "SEU2025",
@@ -36,7 +38,8 @@
     "download_date": "2026-11-13",
     "sha256": "034edac1166a97c31dc8655538ecee7145f6624c4ba0ce4bfb0e8a8b8daceab8",
     "size_bytes": 42144,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "SEU2025",
@@ -49,7 +52,8 @@
     "download_date": "2026-11-13",
     "sha256": "25452ad905b5f4d2acf5b5efe4f8bf618ae9085d97c084775938f54a86c42cc6",
     "size_bytes": 13445,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "SEU2025",
@@ -62,7 +66,8 @@
     "download_date": "2026-11-13",
     "sha256": "4002994132cab802f4103515041997b467786d646ada922ebf3a35370449966c",
     "size_bytes": 1694602,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "HNU2026",
@@ -75,7 +80,8 @@
     "download_date": "2026-11-13",
     "sha256": "8f9f23e0e80eb67bf6a8f97c41ac189004f04dd38649bfe83eba436225900fe2",
     "size_bytes": 11699,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "HNU2026",
@@ -88,7 +94,8 @@
     "download_date": "2026-11-13",
     "sha256": "e73cb1bafbc890d808c7a761e575b6127fb810c284c61670f95160b6e188b857",
     "size_bytes": 30669,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "HNU2026",
@@ -101,7 +108,8 @@
     "download_date": "2026-11-13",
     "sha256": "24339a3968ac34b32c27921b41430a755f9d7985eb3ffcec2e9fc2fe02bf3f92",
     "size_bytes": 35702,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "HNU2026",
@@ -114,7 +122,8 @@
     "download_date": "2026-11-13",
     "sha256": "763c70cc69792e1edf6f1c1e2c8fbf9ce932f97087074808eafc8f604d81741a",
     "size_bytes": 298817,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "SCUT2026",
@@ -127,7 +136,8 @@
     "download_date": "2026-11-13",
     "sha256": "6662c39152d0f07f876042927d8dd06c1e5502ba5d611237e0b8083845e3c982",
     "size_bytes": 31744,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "SCUT2026",
@@ -140,7 +150,8 @@
     "download_date": "2026-11-13",
     "sha256": "9961a51d49e22a4c02434e35f8ebe1c9b8c9dcd4d6b4b6bc0c274b66a2b739b2",
     "size_bytes": 40684,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "SCUT2026",
@@ -153,7 +164,8 @@
     "download_date": "2026-11-13",
     "sha256": "f514940e99081b7eab53c6fd170e93b307799e8de43b951438c5b03fc3d5fe76",
     "size_bytes": 40747,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "SCUT2026",
@@ -166,7 +178,8 @@
     "download_date": "2026-11-13",
     "sha256": "c37498951af1e75b8ef8999022b7e9ef0f368bf456c624b62de823a3721be82a",
     "size_bytes": 329483,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "XIDIAN",
@@ -179,7 +192,8 @@
     "download_date": "2026-11-13",
     "sha256": "f59d36e3a0bb50ebadab9383647e145752019427fde09ed7431d0f4d3d383320",
     "size_bytes": 219283,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "XIDIAN",
@@ -192,7 +206,8 @@
     "download_date": "2026-11-13",
     "sha256": "25452ad905b5f4d2acf5b5efe4f8bf618ae9085d97c084775938f54a86c42cc6",
     "size_bytes": 13445,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "XIDIAN",
@@ -205,7 +220,8 @@
     "download_date": "2026-11-13",
     "sha256": "7c724483410884b479734a84dbdd4d9dbb7b0d2e085a0982c6046a3869166d94",
     "size_bytes": 12310,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "XIDIAN",
@@ -218,7 +234,8 @@
     "download_date": "2026-11-13",
     "sha256": "4b19bc62afda472e91aac111f40c3d22c85c620d969fb4d18d0f4672fa024700",
     "size_bytes": 490187,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "XIDIAN",
@@ -231,7 +248,8 @@
     "download_date": "2026-11-13",
     "sha256": "3ca237cd5444b0cc90c9b42ebfc965ea44c7d4bb752d8b131d123f2626a7ccda",
     "size_bytes": 62878,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "SEU2024",
@@ -244,7 +262,8 @@
     "download_date": "2026-11-13",
     "sha256": null,
     "size_bytes": 0,
-    "access_result": "failed"
+    "access_result": "failed",
+    "error": "HTTPError: 404 Client Error: Not Found for url: https://kjc.seu.edu.cn/_upload/article/files/a6/4e/f16ef2c44a7aafc41287e95b48d8/c3ab2534-157c-426d-879a-275c65ad81f8.pptx"
   },
   {
     "label": "SEU2024",
@@ -257,7 +276,8 @@
     "download_date": "2026-11-13",
     "sha256": null,
     "size_bytes": 0,
-    "access_result": "failed"
+    "access_result": "failed",
+    "error": "HTTPError: 404 Client Error: Not Found for url: https://kjc.seu.edu.cn/_upload/article/files/a6/4e/f16ef2c44a7aafc41287e95b48d8/4ee8f1ee-30be-40dd-b676-3bb21f261092.pdf"
   },
   {
     "label": "SEU2024",
@@ -270,7 +290,8 @@
     "download_date": "2026-11-13",
     "sha256": null,
     "size_bytes": 0,
-    "access_result": "failed"
+    "access_result": "failed",
+    "error": "HTTPError: 404 Client Error: Not Found for url: https://kjc.seu.edu.cn/_upload/article/files/a6/4e/f16ef2c44a7aafc41287e95b48d8/6eed3c7f-386c-4fe8-b91b-031858d643f9.pdf"
   },
   {
     "label": "SEU2024",
@@ -283,7 +304,8 @@
     "download_date": "2026-11-13",
     "sha256": null,
     "size_bytes": 0,
-    "access_result": "failed"
+    "access_result": "failed",
+    "error": "HTTPError: 404 Client Error: Not Found for url: https://kjc.seu.edu.cn/_upload/article/files/a6/4e/f16ef2c44a7aafc41287e95b48d8/931e856c-4969-480f-8457-25d5c92db1d3.docx"
   },
   {
     "label": "SEU2024",
@@ -296,7 +318,8 @@
     "download_date": "2026-11-13",
     "sha256": "fb07679da1928b5cd0b0dab749d98e706b735bc33ef7fae14c4731df300cc9b7",
     "size_bytes": 22421,
-    "access_result": "downloaded"
+    "access_result": "downloaded",
+    "error": null
   },
   {
     "label": "XJTU2026",
@@ -309,7 +332,8 @@
     "download_date": "2026-11-13",
     "sha256": null,
     "size_bytes": 0,
-    "access_result": "failed"
+    "access_result": "captcha_required",
+    "error": "页面要求输入验证码下载附件；未绕过验证，未保存HTML为文档。"
   },
   {
     "label": "XJTU2026",
@@ -322,6 +346,147 @@
     "download_date": "2026-11-13",
     "sha256": null,
     "size_bytes": 0,
-    "access_result": "failed"
+    "access_result": "captcha_required",
+    "error": "页面要求输入验证码下载附件；未绕过验证，未保存HTML为文档。"
+  },
+  {
+    "label": "NSFC2026",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/6-WJTZ.pdf",
+    "source_page_url": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "title": "关于开展2026年度国家自然科学基金青年学生基础研究项目（博士研究生）推荐工作的通知",
+    "source_title": "国家自然科学基金委员会计划与政策局",
+    "file_name": "2026-phd-national-notice.pdf",
+    "purpose": "依托单位名称及推荐名额为空白的公开转载通用通知；第5页载全国推荐/系统填报日期。",
+    "download_date": "2026-11-13",
+    "sha256": "8432931418314133b575dfeac1a62880a553aec0dc467de411ff8f5dd43c13e8",
+    "size_bytes": 1605861,
+    "access_result": "downloaded",
+    "error": null
+  },
+  {
+    "label": "NSFC2026",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/16170822b1ph.jpg",
+    "source_page_url": "https://www.nsfc.gov.cn/p1/2931/3971/4002/99887.html",
+    "title": "2026年度申请代码G管理科学部第1图",
+    "source_title": "国家自然科学基金委员会",
+    "file_name": "codes-g-1.jpg",
+    "purpose": "application_codes_2026",
+    "download_date": "2026-11-13",
+    "sha256": "28f805f12aaab6050e69d41a5509b2c2701cfb94a0e6723770b17b5f2cd39cb3",
+    "size_bytes": 480918,
+    "access_result": "downloaded",
+    "error": null
+  },
+  {
+    "label": "NSFC2026",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/161708295zfu.jpg",
+    "source_page_url": "https://www.nsfc.gov.cn/p1/2931/3971/4002/99887.html",
+    "title": "2026年度申请代码G管理科学部第2图",
+    "source_title": "国家自然科学基金委员会",
+    "file_name": "codes-g-2.jpg",
+    "purpose": "application_codes_2026",
+    "download_date": "2026-11-13",
+    "sha256": "493eaa29f293660b5e79537f8b4efd490b9391c33e7a7f17373fe04d41c4cf57",
+    "size_bytes": 742634,
+    "access_result": "downloaded",
+    "error": null
+  },
+  {
+    "label": "NSFC2026",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/16111534noux.jpg",
+    "source_page_url": "https://www.nsfc.gov.cn/p1/2931/3971/3975/3990/glkxb22222.html",
+    "title": "2026年度管理科学部资助领域和注意事项官方图",
+    "source_title": "国家自然科学基金委员会",
+    "file_name": "requirements-g.jpg",
+    "purpose": "一般规则；不得把代表作填报说明当作博士专项最低发表资格。",
+    "download_date": "2026-11-13",
+    "sha256": "6801ee38025c5e945866aeb29adee2bedbd78e19cfcd8a5fd497a6573ca618e3",
+    "size_bytes": 4137159,
+    "access_result": "downloaded",
+    "error": null
+  },
+  {
+    "label": "NSFC2026",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/16142359vvs1.jpg",
+    "source_page_url": "https://www.nsfc.gov.cn/p1/2931/3971/3975/3990/4039/glkxsc222.html",
+    "title": "2026年度管理科学三处资助领域和注意事项官方图",
+    "source_title": "国家自然科学基金委员会",
+    "file_name": "g04-scope.jpg",
+    "purpose": "G04段明确公共卫生管理与政策不资助某类疾病病理、临床及护理研究。",
+    "download_date": "2026-11-13",
+    "sha256": "73fdbf0d6c81110d7035ae79d35e99e7db9f07fabdcfc57166e3c59124e91646",
+    "size_bytes": 3427521,
+    "access_result": "downloaded",
+    "error": null
+  },
+  {
+    "label": "SJTU2026",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/4-PPT.pdf",
+    "source_page_url": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "title": "国家自然科学基金博士生项目汇报PPT准备注意事项",
+    "source_title": "上海交通大学",
+    "file_name": "2026-sjtu-ppt.pdf",
+    "purpose": "5分钟、16:9明确用于学校遴选。",
+    "download_date": "2026-11-13",
+    "sha256": "27270a9d5ea30d32714988bbd30796c0591a5050f842fcef173115707bfc3ed1",
+    "size_bytes": 419743,
+    "access_result": "downloaded",
+    "error": null
+  },
+  {
+    "label": "SJTU2026",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/5-DBCG.xlsx",
+    "source_page_url": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "title": "2026年国家自然科学基金博士生项目推荐候选人代表性成果信息表",
+    "source_title": "上海交通大学",
+    "file_name": "2026-sjtu-works.xlsx",
+    "purpose": "第一作者/共一/学生一作，发表或录用，按重要程度排序，行数可增减。",
+    "download_date": "2026-11-13",
+    "sha256": "35724d20117064c28f81109243ef67eb16e61bbed907e3ef7d6907a73ca01081",
+    "size_bytes": 10091,
+    "access_result": "downloaded",
+    "error": null
+  },
+  {
+    "label": "SJTU2026",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/3-SQS20260731.docx",
+    "source_page_url": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "title": "2026-07-31更新申请书模板",
+    "source_title": "上海交大机动学院2026推荐通知",
+    "file_name": null,
+    "purpose": "university_nomination",
+    "download_date": "2026-11-13",
+    "sha256": null,
+    "size_bytes": 0,
+    "access_result": "download_failed",
+    "error": "download_failed"
+  },
+  {
+    "label": "SJTU2026",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/2-DSTYH.docx",
+    "source_page_url": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "title": "导师同意函",
+    "source_title": "上海交大机动学院2026推荐通知",
+    "file_name": null,
+    "purpose": "university_nomination",
+    "download_date": "2026-11-13",
+    "sha256": null,
+    "size_bytes": 0,
+    "access_result": "download_failed",
+    "error": "download_failed"
+  },
+  {
+    "label": "SJTU2026",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/1-TJHZB.xlsx",
+    "source_page_url": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "title": "推荐汇总表",
+    "source_title": "上海交大机动学院2026推荐通知",
+    "file_name": null,
+    "purpose": "university_nomination",
+    "download_date": "2026-11-13",
+    "sha256": null,
+    "size_bytes": 0,
+    "access_result": "download_failed",
+    "error": "download_failed"
   }
 ]

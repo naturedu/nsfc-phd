@@ -1,0 +1,178 @@
+[
+  {
+    "id": "N1",
+    "title": "关于开展2026年度国家自然科学基金青年学生基础研究项目（博士研究生）推荐工作的通知",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/6-WJTZ.pdf",
+    "source_page": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "filename": "2026-phd-national-notice.pdf",
+    "publisher": "国家自然科学基金委员会计划与政策局",
+    "hosting_institution": "上海交通大学机械与动力工程学院",
+    "document_date": "2026-07-23",
+    "pages": 6,
+    "read_method": "six_pages_visually_verified",
+    "scope": "national_phd_program_2026",
+    "notes": "依托单位名称及推荐名额为空白的公开转载通用通知；第5页载全国推荐/系统填报日期。",
+    "size_bytes": 1605861,
+    "sha256": "8432931418314133b575dfeac1a62880a553aec0dc467de411ff8f5dd43c13e8",
+    "accessed_at": "2026-11-13"
+  },
+  {
+    "id": "C1a",
+    "title": "2026年度申请代码G管理科学部第1图",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/16170822b1ph.jpg",
+    "source_page": "https://www.nsfc.gov.cn/p1/2931/3971/4002/99887.html",
+    "filename": "codes-g-1.jpg",
+    "publisher": "国家自然科学基金委员会",
+    "read_method": "downloaded_not_needed_for_target_codes",
+    "scope": "application_codes_2026",
+    "size_bytes": 480918,
+    "sha256": "28f805f12aaab6050e69d41a5509b2c2701cfb94a0e6723770b17b5f2cd39cb3",
+    "accessed_at": "2026-11-13"
+  },
+  {
+    "id": "C1",
+    "title": "2026年度申请代码G管理科学部第2图",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/161708295zfu.jpg",
+    "source_page": "https://www.nsfc.gov.cn/p1/2931/3971/4002/99887.html",
+    "filename": "codes-g-2.jpg",
+    "publisher": "国家自然科学基金委员会",
+    "read_method": "visually_verified",
+    "scope": "application_codes_2026",
+    "verified_codes": {
+      "G0401": "公共管理与公共政策",
+      "G0405": "公共卫生管理与政策"
+    },
+    "size_bytes": 742634,
+    "sha256": "493eaa29f293660b5e79537f8b4efd490b9391c33e7a7f17373fe04d41c4cf57",
+    "accessed_at": "2026-11-13"
+  },
+  {
+    "id": "M1",
+    "title": "2026年度管理科学部资助领域和注意事项官方图",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/16111534noux.jpg",
+    "source_page": "https://www.nsfc.gov.cn/p1/2931/3971/3975/3990/glkxb22222.html",
+    "filename": "requirements-g.jpg",
+    "publisher": "国家自然科学基金委员会",
+    "read_method": "visually_verified",
+    "scope": "management_department_general_2026",
+    "notes": "一般规则；不得把代表作填报说明当作博士专项最低发表资格。",
+    "size_bytes": 4137159,
+    "sha256": "6801ee38025c5e945866aeb29adee2bedbd78e19cfcd8a5fd497a6573ca618e3",
+    "accessed_at": "2026-11-13"
+  },
+  {
+    "id": "C2",
+    "title": "2026年度管理科学三处资助领域和注意事项官方图",
+    "url": "https://www.nsfc.gov.cn/u/cms/www/202601/16142359vvs1.jpg",
+    "source_page": "https://www.nsfc.gov.cn/p1/2931/3971/3975/3990/4039/glkxsc222.html",
+    "filename": "g04-scope.jpg",
+    "publisher": "国家自然科学基金委员会",
+    "read_method": "visually_verified",
+    "scope": "G03_G04_general_2026",
+    "notes": "G04段明确公共卫生管理与政策不资助某类疾病病理、临床及护理研究。",
+    "size_bytes": 3427521,
+    "sha256": "73fdbf0d6c81110d7035ae79d35e99e7db9f07fabdcfc57166e3c59124e91646",
+    "accessed_at": "2026-11-13"
+  },
+  {
+    "id": "S2",
+    "title": "国家自然科学基金博士生项目汇报PPT准备注意事项",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/4-PPT.pdf",
+    "source_page": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "filename": "2026-sjtu-ppt.pdf",
+    "publisher": "上海交通大学",
+    "pages": 1,
+    "read_method": "pdf_text_extracted",
+    "scope": "university_nomination_not_nsfc_panel",
+    "notes": "5分钟、16:9明确用于学校遴选。",
+    "size_bytes": 419743,
+    "sha256": "27270a9d5ea30d32714988bbd30796c0591a5050f842fcef173115707bfc3ed1",
+    "accessed_at": "2026-11-13"
+  },
+  {
+    "id": "S3",
+    "title": "2026年国家自然科学基金博士生项目推荐候选人代表性成果信息表",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/5-DBCG.xlsx",
+    "source_page": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "filename": "2026-sjtu-works.xlsx",
+    "publisher": "上海交通大学",
+    "read_method": "xlsx_cells_read",
+    "scope": "university_nomination_not_national_eligibility",
+    "notes": "第一作者/共一/学生一作，发表或录用，按重要程度排序，行数可增减。",
+    "size_bytes": 10091,
+    "sha256": "35724d20117064c28f81109243ef67eb16e61bbed907e3ef7d6907a73ca01081",
+    "accessed_at": "2026-11-13"
+  },
+  {
+    "id": "S4",
+    "title": "2026-07-31更新申请书模板",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/3-SQS20260731.docx",
+    "source_page": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "accessed_at": "2026-11-13",
+    "read_method": "download_failed",
+    "scope": "university_nomination",
+    "content_verified": false,
+    "access_status": "download_failed",
+    "download_attempts": [
+      {
+        "attempt": 1,
+        "status": "failed",
+        "reason": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+      },
+      {
+        "attempt": 2,
+        "status": "failed",
+        "reason": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+      }
+    ],
+    "download_timeout_seconds": 30
+  },
+  {
+    "id": "S5",
+    "title": "导师同意函",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/2-DSTYH.docx",
+    "source_page": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "accessed_at": "2026-11-13",
+    "read_method": "download_failed",
+    "scope": "university_nomination",
+    "content_verified": false,
+    "access_status": "download_failed",
+    "download_attempts": [
+      {
+        "attempt": 1,
+        "status": "failed",
+        "reason": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+      },
+      {
+        "attempt": 2,
+        "status": "failed",
+        "reason": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+      }
+    ],
+    "download_timeout_seconds": 30
+  },
+  {
+    "id": "S6",
+    "title": "推荐汇总表",
+    "url": "https://me.sjtu.edu.cn/YanJS/upload/1-TJHZB.xlsx",
+    "source_page": "https://me.sjtu.edu.cn/YanJS/notice/7674.html",
+    "accessed_at": "2026-11-13",
+    "read_method": "download_failed",
+    "scope": "university_nomination",
+    "content_verified": false,
+    "access_status": "download_failed",
+    "download_attempts": [
+      {
+        "attempt": 1,
+        "status": "failed",
+        "reason": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+      },
+      {
+        "attempt": 2,
+        "status": "failed",
+        "reason": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+      }
+    ],
+    "download_timeout_seconds": 30
+  }
+]
